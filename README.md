@@ -1,4 +1,4 @@
-### Hi there 👋
+### NTCIR16 QA Lab-PoliInfo-3
 
 <!--
 **poliinfo3/poliinfo3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
